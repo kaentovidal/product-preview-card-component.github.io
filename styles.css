@@ -62,7 +62,7 @@ button{
 .description{
     background-color: hsl(0, 0%, 100%);
     padding: 1.5rem;
-    width: 45%;
+    width: 50%;
     border-radius: 0 1rem 1rem 0;
 }
 .price{

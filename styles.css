@@ -55,14 +55,14 @@ button{
 }
 .cart{
     display: flex;
-    width: 700px;
-    height: 500px;
+    width: 650px;
+    height: 450px;
     border-radius: 1rem;
 }
 .description{
     background-color: hsl(0, 0%, 100%);
     padding: 1.5rem;
-    width: 50%;
+    width: 45%;
     border-radius: 0 1rem 1rem 0;
 }
 .price{
